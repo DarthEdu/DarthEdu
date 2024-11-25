@@ -50,7 +50,9 @@ Software Developer en proceso 🧑🏻‍💻
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 ### 💬Social
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](porrasmateo25@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/matiup15)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matiu_p_/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-porras153/)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DarthEdu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DarthEdu/github-readme-stats#gh-dark-mode-only)
 
